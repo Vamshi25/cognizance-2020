@@ -2,3 +2,5 @@ git add
 git checkout
 git clone
 git commit
+git push
+git pull
