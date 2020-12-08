@@ -100,7 +100,7 @@ CREATE TABLE IF NOT EXISTS `comments`
  `com_website` varchar(500) CHARACTER SET utf8_bin NOT NULL,)
 
 
- ####### Credits
+  Credits
 
  contributer to MySQL
 
